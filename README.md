@@ -5,17 +5,17 @@ The following are Power BI dashboards. They each have their own pdf file to show
 
 #### AutoRecalls_2000to2018:
 Data about automotive recalls from 2000 - 2018.<br>
-[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/AutoRecalls_2000to2018.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/AutoRecalls_2000to2018.pdf)
+[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/AutoRecalls_2000to2018.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/AutoRecalls_2000to2018.pdf) | [Data](https://github.com/GenTaylor/PowerBI/blob/main/Data/RecallDataNHTSAupto2018.csv)
 ***
 #### Banking Loan & Marketing Analysis:
 Data about bank loans, defaulted credit, and the impact campaign contact has on customer subscriptions (loans).<br>
-[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/Banking%20Loan%20%26%20Marketing%20Analysis.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/Banking%20Loan%20%26%20Marketing%20Analysis.pdf)
+[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/Banking%20Loan%20%26%20Marketing%20Analysis.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/Banking%20Loan%20%26%20Marketing%20Analysis.pdf) | [Data](https://github.com/GenTaylor/PowerBI/blob/main/Data/bank.csv)
 
 ***
 #### SuperstoreSales
 Sales information by product, category, region, etc. 
 <br>
-[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pdf)
+[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pdf) | [Data](https://github.com/GenTaylor/PowerBI/blob/main/Data/Sample%20-%20Superstore.xls)
 ***
 
 Genesis L. Taylor<br>
