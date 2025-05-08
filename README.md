@@ -18,6 +18,6 @@ Sales information by product, category, region, etc.
 [Power BI](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pdf) | [Data](https://github.com/GenTaylor/PowerBI/blob/main/Data/Sample%20-%20Superstore.xls)
 ***
 
-Genesis L. Taylor<br>
+Genesis Taylor<br>
 [Github](https://github.com/GenTaylor/) | [Linkedin](https://linkedin.com/in/genesistaylor/) | [genesisltaylor@gmail.com](mailto:genesisltaylor@gmail.com)
 
