@@ -1,9 +1,9 @@
-# Power BI Dashboards
+## Power BI Dashboards
 ***
 The following are Power BI dashboards. They each have their own pdf file to show a quick view of the dashboards, however the .pbix files are downloadable as well. 
 ***
 
-#### AutoRecalls_2000to2018
+### AutoRecalls_2000to2018
 Data about automotive recalls from 2000 - 2018.<br>
 [Power BI](https://github.com/GenTaylor/PowerBI/blob/main/AutoRecalls_2000to2018.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/AutoRecalls_2000to2018.pdf) | [Data](https://github.com/GenTaylor/PowerBI/blob/main/Data/RecallDataNHTSAupto2018.csv)
 ***
