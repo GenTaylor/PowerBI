@@ -15,7 +15,7 @@ Data about bank loans, defaulted credit, and the impact campaign contact has on 
 #### SuperstoreSales
 Sales information by product, category, region, etc. 
 <br>
-[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pbixhttps://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pdf)
+[Power BI](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pbix) | [PDF](https://github.com/GenTaylor/PowerBI/blob/main/SuperstoreSales.pdf)
 ***
 
 Genesis L. Taylor<br>
